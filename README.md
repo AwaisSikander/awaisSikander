@@ -19,8 +19,9 @@ Passionate about Web3 development, my recent studies have equipped me to explore
 
 ## 🛠️ My Skillset
 
-### Blockchain and Web3 Expertise
-<p align="left">
+<p align="center">
+  <b>Blockchain and Web3 Expertise</b>
+  <br/><br/>
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Solidity-E6E6E6?style=for-the-badge&logo=solidity&logoColor=black" alt="Solidity" />
   </a>
@@ -47,8 +48,9 @@ Passionate about Web3 development, my recent studies have equipped me to explore
   </a>
 </p>
 
-### Web2 Expertise
-<p align="left">
+<p align="center">
+  <b>Web2 Expertise</b>
+  <br/><br/>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
@@ -87,8 +89,9 @@ Passionate about Web3 development, my recent studies have equipped me to explore
   </a>
 </p>
 
-### Tools & Platforms
-<p align="left">
+<p align="center">
+  <b>Tools & Platforms</b>
+  <br/><br/>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
@@ -106,6 +109,17 @@ Passionate about Web3 development, my recent studies have equipped me to explore
   </a>
    <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+  </a>
+</p>
+
+## 📊 My GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AwaisSikander&show_icons=true&theme=tokyonight&count_private=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisSikander&layout=compact&theme=tokyonight" />
   </a>
 </p>
 
