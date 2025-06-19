@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AwaisSikander/my-github-assets/refs/heads/main/awais-sikander-full-stack-developer-profile-banner.jpg" alt="Awais Sikander - Full Stack Developer Banner">
+</p>
 # Hi there 👋, I'm Awais Sikander
 
 ## Full Stack Developer | Bridging Web2 and Web3
