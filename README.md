@@ -112,17 +112,6 @@ Passionate about Web3 development, my recent studies have equipped me to explore
   </a>
 </p>
 
-## 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=AwaisSikander&show_icons=true&theme=tokyonight&count_private=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AwaisSikander&layout=compact&theme=tokyonight" />
-  </a>
-</p>
-
 ## 💼 Professional Experience
 
 ### Sr. Full Stack Developer | GS-Technologies
