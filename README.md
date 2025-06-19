@@ -1,9 +1,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/AwaisSikander/my-github-assets/refs/heads/main/awais-sikander-full-stack-developer-profile-banner.jpg" alt="Awais Sikander - Full Stack Developer Banner">
 </p>
-# Hi there 👋, I'm Awais Sikander
+<!-- # Hi there 👋, I'm Awais Sikander
 
-## Full Stack Developer | Bridging Web2 and Web3
+## Full Stack Developer | Bridging Web2 and Web3 -->
 
 I'm a Senior Full Stack Developer with 6 years of experience shaping innovative Web2 solutions. I am adept in spearheading the development of core modules, significantly enhancing application performance, and skilled in building comprehensive platforms from the ground up.
 
