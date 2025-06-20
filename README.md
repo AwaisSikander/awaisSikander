@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AwaisSikander/my-github-assets/refs/heads/main/awais-sikander-full-stack-developer-profile-banner.jpg" alt="Awais Sikander - Full Stack Developer Banner">
+  <img src="https://raw.githubusercontent.com/AwaisSikander/my-github-assets/refs/heads/main/awais-sikander-full-stack-developer-profile-banner.png" alt="Awais Sikander - Full Stack Developer Banner">
 </p>
 
 I'm a Senior Full Stack Developer with 6 years of experience shaping innovative Web2 solutions. I am adept in spearheading the development of core modules, significantly enhancing application performance, and skilled in building comprehensive platforms from the ground up.
