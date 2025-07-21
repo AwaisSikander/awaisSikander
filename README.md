@@ -6,6 +6,7 @@ I'm a Senior Full Stack Developer with 6 years of experience shaping innovative 
 
 Recently, I've completed an intensive blockchain full stack course, gaining expertise in Web3 technologies like Solidity, Chainlink, and Ethers. I am excited to transition into the world of Web3, contribute to innovative blockchain projects, and apply my skills to create decentralized applications that redefine the future of technology. I'm a fast learner committed to staying current with advancements in the blockchain space and am actively seeking opportunities in Web3 development to make a meaningful impact on the decentralized ecosystem.
 
+* 🔗 **Digital CV:** [https://askawais.com](https://askawais.com)
 * 🔗 **LinkedIn:** [https://www.linkedin.com/in/awais-sikander-835614187](https://www.linkedin.com/in/awais-sikander-835614187)
 * 🐙 **GitHub:** [https://github.com/AwaisSikander](https://github.com/AwaisSikander)
 * 📧 **Email:** sikande007@gmail.com
